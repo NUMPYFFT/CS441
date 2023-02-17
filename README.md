@@ -1,2 +1,2 @@
-# CS441
+# CS441 @ UIUC
 Applied Machine Learning
